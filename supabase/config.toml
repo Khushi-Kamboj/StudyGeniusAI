@@ -1,0 +1,5 @@
+project_id = "cscvgazsfnidcdqjrjvw"
+
+[functions.summarize-note]
+  entrypoint = "functions/summarize-note/index.js"
+
